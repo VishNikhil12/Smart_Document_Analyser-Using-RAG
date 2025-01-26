@@ -72,19 +72,19 @@ streamlit run main.py
 ## 💡 Usage Examples
 
 ### Document Analysis Mode
-![Document Analysis Mode](assets\document_analysis.png)
+![Document Analysis Mode](assets/document_analysis.png)
 - Upload PDFs and interact with their content through natural language questions
 - Get intelligent answers with relevant web and YouTube resources
 - Generate comprehensive summaries of your documents
 
 ### Image Analysis Mode
-![Image Analysis Mode](assets\Image_analysis.png)
+![Image Analysis Mode](assets/Image_analysis.png)
 - Extract text from images with advanced OCR
 - Generate detailed captions and analyze visual content
 - Ask specific questions about the image contents
 
 ### Quiz Generation Mode
-![Quiz Generation Mode](assets\quiz_generator.png)
+![Quiz Generation Mode](assets/quiz_generator.png)
 - Transform PDF content into interactive quizzes
 - Track your progress and review your answers
 - Learn through engaging question-answer format
