@@ -2,8 +2,6 @@
 
 A powerful document analysis tool that combines the capabilities of Google's AI services to provide intelligent document processing, image analysis, and interactive quiz generation.
 
-![Smart Document Analyzer](https://img.shields.io/badge/Status-Active-success)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
 
 ## ✨ Features
 
@@ -74,19 +72,19 @@ streamlit run main.py
 ## 💡 Usage Examples
 
 ### Document Analysis Mode
-![Document Analysis Mode](assets/document_analysis.png)
+![Document Analysis Mode](assets\document_analysis.png)
 - Upload PDFs and interact with their content through natural language questions
 - Get intelligent answers with relevant web and YouTube resources
 - Generate comprehensive summaries of your documents
 
 ### Image Analysis Mode
-![Image Analysis Mode](assets/image_analysis.png)
+![Image Analysis Mode](assets\Image_analysis.png)
 - Extract text from images with advanced OCR
 - Generate detailed captions and analyze visual content
 - Ask specific questions about the image contents
 
 ### Quiz Generation Mode
-![Quiz Generation Mode](assets/quiz_mode.png)
+![Quiz Generation Mode](assets\quiz_generator.png)
 - Transform PDF content into interactive quizzes
 - Track your progress and review your answers
 - Learn through engaging question-answer format
